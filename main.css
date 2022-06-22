@@ -1,6 +1,6 @@
 :root {
   --main-white: #f0f0f0;
-  --main-red: #704241;
+  --main-cyan: #00FFFF;
   --main-blue: #264348;
   --main-gray: #696969;
 }
@@ -84,7 +84,7 @@ img {
   top: 0;
   left: 0;
   width: 100%;
-  background: var(--main-red);
+  background: var(--main-cyan);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.6);
   z-index: 10;
 }
@@ -141,8 +141,8 @@ img {
 .projects-section-header {
   max-width: 640px;
   margin: 0 auto 6rem auto;
-   border-bottom: 0.2rem solid var(--main-red);
-  color: var(--main-red)
+   border-bottom: 0.2rem solid var(--main-cyan);
+  color: var(--main-cyan)
 }
 
 @media (max-width: 28.75em) {
