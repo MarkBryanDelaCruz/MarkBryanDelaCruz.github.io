@@ -2,7 +2,7 @@
   --main-white: #f0f0f0;
   --main-cyan: #00FFFF;
   --main-blue: #264348;
-  --main-gray: #696969;
+  --main-mint: #7aeac7;
 }
 
 * {
@@ -111,7 +111,7 @@ img {
 }
 
 .nav-list a:hover {
-  background: var(--main-gray);
+  background: var(--main-mint);
 }
 
 .welcome-section {
